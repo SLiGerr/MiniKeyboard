@@ -1,5 +1,10 @@
 # Mini Keyboard Configurator
 
+## Fork Info: 
+I have changed F1-12 keys for F13-F24 for some additional free keys to bind stuff to
+
+---
+
 Decompiled and reassembled configuration tool for those cheap Amazon/AliExpress/Wish/Temu macro pads, so that you don't have to take a gamble with dodgy GDrive links to an unknown exe.
 
 Sold as any combination of these wonderful(ly misleading) product tags:
