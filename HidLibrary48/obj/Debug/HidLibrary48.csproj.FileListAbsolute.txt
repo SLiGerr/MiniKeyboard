@@ -1,0 +1,6 @@
+C:\Users\bolti\Desktop\New folder (2)\HidLibrary48\bin\Debug\HidLibrary48.dll
+C:\Users\bolti\Desktop\New folder (2)\HidLibrary48\bin\Debug\HidLibrary48.pdb
+C:\Users\bolti\Desktop\New folder (2)\HidLibrary48\obj\Debug\HidLibrary48.csproj.AssemblyReference.cache
+C:\Users\bolti\Desktop\New folder (2)\HidLibrary48\obj\Debug\HidLibrary48.csproj.CoreCompileInputs.cache
+C:\Users\bolti\Desktop\New folder (2)\HidLibrary48\obj\Debug\HidLibrary48.dll
+C:\Users\bolti\Desktop\New folder (2)\HidLibrary48\obj\Debug\HidLibrary48.pdb

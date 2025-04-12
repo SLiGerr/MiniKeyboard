@@ -498,85 +498,85 @@ namespace MiniKeyboard48
 
 		private void KEY_F1_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 58;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F1";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 104;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F13";
 			General_Char_Set();
 		}
 
 		private void KEY_F2_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 59;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F2";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 105;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F14";
 			General_Char_Set();
 		}
 
 		private void KEY_F3_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 60;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F3";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 106;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F15";
 			General_Char_Set();
 		}
 
 		private void KEY_F4_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 61;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F4";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 107;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F16";
 			General_Char_Set();
 		}
 
 		private void KEY_F5_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 62;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F5";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 108;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F17";
 			General_Char_Set();
 		}
 
 		private void KEY_F6_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 63;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F6";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 109;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F18";
 			General_Char_Set();
 		}
 
 		private void KEY_F7_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 64;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F7";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 110;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F19";
 			General_Char_Set();
 		}
 
 		private void KEY_F8_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 65;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F8";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 111;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F20";
 			General_Char_Set();
 		}
 
 		private void KEY_F9_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 66;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F9";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 112;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F21";
 			General_Char_Set();
 		}
 
 		private void KEY_F10_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 67;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F10";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 113;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F22";
 			General_Char_Set();
 		}
 
 		private void KEY_F11_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 68;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F11";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 114;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F23";
 			General_Char_Set();
 		}
 
 		private void KEY_F12_Click(object sender, EventArgs e)
 		{
-			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 69;
-			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F12";
+			FormMain.KeyParam.Data_Send_Buff[FormMain.KeyParam.Key_Char_Num] = 115;
+			FormMain.KeyParam.KeyChar[FormMain.KeyParam.Key_Char_Num - 5] = "F24";
 			General_Char_Set();
 		}
 
@@ -1205,84 +1205,84 @@ namespace MiniKeyboard48
 			KEY_F12.Name = "KEY_F12";
 			KEY_F12.Size = new Size(44, 23);
 			KEY_F12.TabIndex = 48;
-			KEY_F12.Text = "F12";
+			KEY_F12.Text = "F24";
 			KEY_F12.UseVisualStyleBackColor = true;
 			KEY_F12.Click += new EventHandler(KEY_F12_Click);
 			KEY_F11.Location = new Point(566, 7);
 			KEY_F11.Name = "KEY_F11";
 			KEY_F11.Size = new Size(45, 23);
 			KEY_F11.TabIndex = 47;
-			KEY_F11.Text = "F11";
+			KEY_F11.Text = "F23";
 			KEY_F11.UseVisualStyleBackColor = true;
 			KEY_F11.Click += new EventHandler(KEY_F11_Click);
 			KEY_F10.Location = new Point(515, 7);
 			KEY_F10.Name = "KEY_F10";
 			KEY_F10.Size = new Size(45, 23);
 			KEY_F10.TabIndex = 46;
-			KEY_F10.Text = "F10";
+			KEY_F10.Text = "F22";
 			KEY_F10.UseVisualStyleBackColor = true;
 			KEY_F10.Click += new EventHandler(KEY_F10_Click);
 			KEY_F9.Location = new Point(464, 7);
 			KEY_F9.Name = "KEY_F9";
 			KEY_F9.Size = new Size(45, 23);
 			KEY_F9.TabIndex = 45;
-			KEY_F9.Text = "F9";
+			KEY_F9.Text = "F21";
 			KEY_F9.UseVisualStyleBackColor = true;
 			KEY_F9.Click += new EventHandler(KEY_F9_Click);
 			KEY_F8.Location = new Point(413, 7);
 			KEY_F8.Name = "KEY_F8";
 			KEY_F8.Size = new Size(45, 23);
 			KEY_F8.TabIndex = 44;
-			KEY_F8.Text = "F8";
+			KEY_F8.Text = "F20";
 			KEY_F8.UseVisualStyleBackColor = true;
 			KEY_F8.Click += new EventHandler(KEY_F8_Click);
 			KEY_F7.Location = new Point(362, 7);
 			KEY_F7.Name = "KEY_F7";
 			KEY_F7.Size = new Size(45, 23);
 			KEY_F7.TabIndex = 43;
-			KEY_F7.Text = "F7";
+			KEY_F7.Text = "F19";
 			KEY_F7.UseVisualStyleBackColor = true;
 			KEY_F7.Click += new EventHandler(KEY_F7_Click);
 			KEY_F6.Location = new Point(311, 7);
 			KEY_F6.Name = "KEY_F6";
 			KEY_F6.Size = new Size(45, 23);
 			KEY_F6.TabIndex = 42;
-			KEY_F6.Text = "F6";
+			KEY_F6.Text = "F18";
 			KEY_F6.UseVisualStyleBackColor = true;
 			KEY_F6.Click += new EventHandler(KEY_F6_Click);
 			KEY_F5.Location = new Point(260, 7);
 			KEY_F5.Name = "KEY_F5";
 			KEY_F5.Size = new Size(45, 23);
 			KEY_F5.TabIndex = 41;
-			KEY_F5.Text = "F5";
+			KEY_F5.Text = "F17";
 			KEY_F5.UseVisualStyleBackColor = true;
 			KEY_F5.Click += new EventHandler(KEY_F5_Click);
 			KEY_F4.Location = new Point(209, 7);
 			KEY_F4.Name = "KEY_F4";
 			KEY_F4.Size = new Size(45, 23);
 			KEY_F4.TabIndex = 40;
-			KEY_F4.Text = "F4";
+			KEY_F4.Text = "F16";
 			KEY_F4.UseVisualStyleBackColor = true;
 			KEY_F4.Click += new EventHandler(KEY_F4_Click);
 			KEY_F3.Location = new Point(158, 7);
 			KEY_F3.Name = "KEY_F3";
 			KEY_F3.Size = new Size(45, 23);
 			KEY_F3.TabIndex = 39;
-			KEY_F3.Text = "F3";
+			KEY_F3.Text = "F15";
 			KEY_F3.UseVisualStyleBackColor = true;
 			KEY_F3.Click += new EventHandler(KEY_F3_Click);
 			KEY_F2.Location = new Point(107, 7);
 			KEY_F2.Name = "KEY_F2";
 			KEY_F2.Size = new Size(45, 23);
 			KEY_F2.TabIndex = 38;
-			KEY_F2.Text = "F2";
+			KEY_F2.Text = "F14";
 			KEY_F2.UseVisualStyleBackColor = true;
 			KEY_F2.Click += new EventHandler(KEY_F2_Click);
 			KEY_F1.Location = new Point(56, 5);
 			KEY_F1.Name = "KEY_F1";
 			KEY_F1.Size = new Size(45, 23);
 			KEY_F1.TabIndex = 37;
-			KEY_F1.Text = "F1";
+			KEY_F1.Text = "F13";
 			KEY_F1.UseVisualStyleBackColor = true;
 			KEY_F1.Click += new EventHandler(KEY_F1_Click);
 

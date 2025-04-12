@@ -1,0 +1,12 @@
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\bin\Debug\MiniKeyboard48.exe.config
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\bin\Debug\MiniKeyboard48.exe
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\bin\Debug\MiniKeyboard48.pdb
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\bin\Debug\HidLibrary48.dll
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\bin\Debug\HidLibrary48.pdb
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\obj\Debug\MiniKeyboard48.csproj.AssemblyReference.cache
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\obj\Debug\MiniKeyboard48.Properties.Resources.resources
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\obj\Debug\MiniKeyboard48.csproj.GenerateResource.cache
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\obj\Debug\MiniKeyboard48.csproj.CoreCompileInputs.cache
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\obj\Debug\MiniKeyboard48.csproj.CopyComplete
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\obj\Debug\MiniKeyboard48.exe
+C:\Users\bolti\Desktop\New folder (2)\MiniKeyboard48\obj\Debug\MiniKeyboard48.pdb
